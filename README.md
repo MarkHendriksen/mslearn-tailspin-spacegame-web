@@ -1,3 +1,4 @@
+[![Build Status](https://markhendriksen.visualstudio.com/AZ400-2.2.3/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://markhendriksen.visualstudio.com/AZ400-2.2.3/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
